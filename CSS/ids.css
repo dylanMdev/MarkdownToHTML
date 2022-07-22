@@ -1,0 +1,36 @@
+#previousPage
+{
+    margin: auto;
+}
+#currentPage
+{
+    margin: auto;
+    color: #6ea8ff;
+}
+#nextPage
+{
+    margin: auto;
+}
+#profilePic
+{
+    width: 40%;
+    margin: auto;
+}
+#quoting
+{
+    padding: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-left: solid 5px #30363d;
+}
+#centerBtn
+{
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#quoteText
+{
+    margin-left: 5px;
+    color: #30363d;
+}

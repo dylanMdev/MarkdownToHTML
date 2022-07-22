@@ -1,0 +1,36 @@
+.background-darkColor
+{
+    background-color: blue;
+}
+.background-lightColor
+{
+    background-color: #c9d1d9;
+}
+.background-lightGrey
+{
+    background-color: #6a949e;
+}
+.background-darkGrey
+{
+    background-color: #30363d;
+}
+.text-darkColor
+{
+    color: #0d1117;
+}
+.text-lightColor
+{
+    color: #c9d1d9;
+}
+.text-lightGrey
+{
+    color: #6a949e;
+}
+.text-darkGrey
+{
+    color: #30363d;
+}
+.underlineElement-darkGrey
+{
+    border-bottom: solid 1px #30363d;
+}
